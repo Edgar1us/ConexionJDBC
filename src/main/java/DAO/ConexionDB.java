@@ -48,7 +48,7 @@ static Scanner teclado = new Scanner(System.in);
         System.out.println("Dime el nombre: ");
         String nombre = teclado.nextLine();
         
-        System.out.println("Dime el primer apellidos: ");
+        System.out.println("Dime el primer apellido: ");
         String apellido1 = teclado.nextLine();
         
         System.out.println("Dime el segundo apellido: ");
